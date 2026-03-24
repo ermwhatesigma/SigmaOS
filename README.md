@@ -13,3 +13,19 @@ You can use .sig files to like print text but that is basicly it...
 V2.0 is still working so might take some time to upload. But i hope it will be not to long from now.  
 Also you cannot scroll inside the terminal so everything up will be gone and no return option for commands so yeah you have to remember everything.  
 I hope i will add soon ethernet and wifi suport to install packages.
+
+# Update V2.0
+Now the newest version of sigma os is V2.0.  
+I have updated the sig files.  
+You can use in the terminal  
+```bash
+sig -h
+```
+This shows all the information that you need to know for simple files.  
+I also added an function that i didn't test so that is why it is prerealse but i hope that the iso write to disk works. Yes you can now download sigma os and save all the files.  
+I also added that you can change the resulation
+```bash
+set --res 1440p --save
+```
+This is an example to save the resulution into 1440p there is also for 1080p and 720p.  
+This is all i have to explain. You can dig the rest out your self 😄
