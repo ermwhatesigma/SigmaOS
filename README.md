@@ -15,7 +15,7 @@ Also you cannot scroll inside the terminal so everything up will be gone and no 
 I hope i will add soon ethernet and wifi suport to install packages.
 
 # Update V2.0
-Now the newest version of sigma os is V2.0.  
+Now the newest version of sigma os is V2.0. **STILL a prerelase** not everything will work. If you find gliches or something else please report it.   
 I have updated the sig files.  
 You can use in the terminal  
 ```bash
