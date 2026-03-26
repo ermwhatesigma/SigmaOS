@@ -33,4 +33,5 @@ This is all i have to explain. You can dig the rest out your self 😄
 # V2.1
 V2.1 just got released it still has some bugs like wifi and ethernet drivers i'll try to fix them assoon as possible in V2.2  
 Fixed the sig -h and also the nano.  
-But i still need to fix the wifi ethernet and install ssd funxtions.
+But i still need to fix the wifi ethernet and install ssd funxtions.  
+Working on the grub error now, yeah later not now now, I'll try fixing it tomorrow.
