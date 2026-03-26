@@ -29,3 +29,8 @@ set --res 1440p --save
 ```
 This is an example to save the resulution into 1440p there is also for 1080p and 720p.  
 This is all i have to explain. You can dig the rest out your self 😄
+
+# V2.1
+V2.1 just got released it still has some bugs like wifi and ethernet drivers i'll try to fix them assoon as possible in V2.2  
+Fixed the sig -h and also the nano.  
+But i still need to fix the wifi ethernet and install ssd funxtions.
