@@ -35,3 +35,7 @@ V2.1 just got released it still has some bugs like wifi and ethernet drivers i'l
 Fixed the sig -h and also the nano.  
 But i still need to fix the wifi ethernet and install ssd funxtions.  
 Working on the grub error now, yeah later not now now, I'll try fixing it tomorrow.
+
+# V2.2
+V2.2 just got released it was promised this morning but i had school.  
+But here it is V2.2 didn't try the ssd download function but i did fix the gtub error and memory leaks in the drivers.
